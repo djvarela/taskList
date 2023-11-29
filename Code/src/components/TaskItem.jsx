@@ -27,7 +27,7 @@ export const TaskItem = ({ element }) => {
               handleDeleteTask(element);
             }}
           >
-            <img src="/public/trash.svg" width={"25px"} alt="icon trash" />
+            <img src="./trash.svg" width={"25px"} alt="icon trash" />
           </button>
         </div>
       </div>
